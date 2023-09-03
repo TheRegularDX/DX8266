@@ -7,7 +7,9 @@ its basically a breakout board for the ESP-12, but a tiny bit spicier.
 
 - [ ] improve repo layout or something idk
 - [ ] add diagrams and graphical schematics
-- [ ] board usage tutorial
-- [ ] improve the readme
+- [ ] add a board usage tutorial
+- [ ] improve the readme and make it prettier
+- [ ] add badges to the readme to make it look proffesional
+
 
 
