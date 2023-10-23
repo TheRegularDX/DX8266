@@ -13,6 +13,11 @@ plug it in with an usb to serial adapter lol
 - [ ] add a board usage tutorial
 - [ ] improve the readme and make it prettier
 - [ ] add badges to the readme to make it look proffesional
+      
+## to-do for rev 2 board
 
-
+- [ ] add pinout to the board
+- [ ] make it breadboard compatible
+- [ ] improve layout
+- [ ] improve silkscreen logo
 
