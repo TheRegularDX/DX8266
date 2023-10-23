@@ -10,7 +10,7 @@ plug it in with an usb to serial adapter lol
 
 - [x] improve repo layout or something idk
 - [ ] add diagrams and graphical schematics
-- [ ] add a board usage tutorial
+- [x] add a board usage tutorial
 - [ ] improve the readme and make it prettier
 - [ ] add badges to the readme to make it look proffesional
       
