@@ -2,6 +2,8 @@
 
 The DX8266 is a small, low power WiFi development board based around the ESP-12 module that i designed in my free time. Whith the goal being to test my own abilities at electronics and hardware design, and to make a simple board that is more complex and has more pins than the ESP-01, but simpler and more compact than the NodeMCU.
 
+# Revision 2.0 branch
+the original version of the board had many issues, this revision aims to improve on the previous version and adds one extra feature, that being a small 4x4  WS2812b (neopixel) matrix for simple display purposes
 
 ## Getting started
 plug it in with an usb to serial adapter lol 
